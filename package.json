@@ -1,0 +1,25 @@
+{
+  "name": "01-express-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megbrown/express-static.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megbrown/express-static/issues"
+  },
+  "homepage": "https://github.com/megbrown/express-static#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "pug": "^2.0.0-rc.4"
+  }
+}
